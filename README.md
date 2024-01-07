@@ -1,1 +1,4 @@
-# pug-sass-mongoDB-nodejs-express
+# Template Engine - PUG
+# CSS Stylesheet Engine - SASS
+# Database - MONGODB
+# Backend - NODEJS/EXPRESS
